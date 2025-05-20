@@ -53,4 +53,4 @@ Project Status:
  Data Cleaning
  Dashboard Design
  DAX Measures
- Insights & Documentation
+ Insights & Documentation.
